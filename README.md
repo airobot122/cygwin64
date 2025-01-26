@@ -1,0 +1,23 @@
+This repo contains cygwin installation and several packages (listed below) for win64 system.
+
+autoconf
+automake
+ccache
+cygwin32-gcc-g++
+gcc-g++
+git
+libtool
+make
+gawk
+libexpat-devel
+libxml2-devel
+python37
+python37-future
+python37-lxml
+python37-pip
+libxslt-devel
+python37-devel
+procps-ng
+zip
+gdb
+ddd
